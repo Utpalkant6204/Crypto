@@ -1,0 +1,39 @@
+.coin {
+    width: 400px;
+    height: 320px;
+    background-color: rgb(36, 36, 36);
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 10px;
+    margin: 20px;
+    text-align: center;
+}
+  
+.coin img {
+    height: 100px;
+}
+
+.name{
+    font-family:'Lora', serif;
+    font-style: italic;
+    color:white;
+}
+
+.price{
+    font-family: 'Cedarville Cursive', cursive;;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    color: red;
+    font-size: 20px;
+}
+
+.pval{
+    margin-top: 0px;
+    font-family: 'Varela', sans-serif;
+}
+
+.symbol{
+    font-family: 'Satisfy', cursive;
+    font-style: italic;
+    color: blueviolet;
+}
